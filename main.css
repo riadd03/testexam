@@ -5,6 +5,8 @@ h1{
 p{
     size: 20 px; color : red;
 }
-#maindiv{
-    color: aqua;
+#maindiv {
+    background-color: aqua;
+    height: '30%';
+    width: '30%' ;
 }
